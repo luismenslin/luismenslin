@@ -5,7 +5,6 @@
 <img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" align="right" style="position:absolute; z-index:9999; height: 12em">
 <div>
   <a href="https://github.com/luismenslin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luismenslin&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismenslin&layout=compact&langs_count=7&theme=gotham" />
 </div>
 
