@@ -11,7 +11,7 @@
 ## About me
 - I'm studying Software Engineering <🐬/>
 - I work to Senior Sistemas as Helpdesk Support 👨‍🦳
-- I love my dog, her name is Molly 🐶
+- My Dog's name is Molly 🐶
 
 ## Contact
 <div>
